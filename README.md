@@ -1,13 +1,15 @@
-schema -> structure of the data
-model -> individual schema object
-query-> query that we make
-
-steaps :- 
+Steps :- 
 1. connect to database
 2. create schema in a different js file
 3. create a model & export it
 
 - create a new file for the schema
+  
+schema -> structure of the data
+
+model -> individual schema object
+
+query-> query that we make
 
 ERRORS:-
 
